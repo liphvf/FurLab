@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> **Este projeto foi movido.**
+>
+> O FurLab agora se chama **Mustel** e continua em **[github.com/MustelGuild/Mustel](https://github.com/MustelGuild/Mustel)**, com um novo nome e uma nova ideia.
+> Consulte o repositório novo para a versão atual, documentação e desenvolvimento ativo. Este repositório refere-se à versão antiga e não é mais o local principal do projeto.
+
 <div align="center">
   <img src="assets/FurLab_icon.png" alt="FurLab Logo" width="160" />
 
